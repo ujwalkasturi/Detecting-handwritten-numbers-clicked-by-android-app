@@ -6,89 +6,89 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml
+8-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml
+9-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:6:5-64
-11-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:6:22-62
+11-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:6:5-64
+11-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:6:22-62
 12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-12-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:7:5-79
-12-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:7:22-77
+12-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:7:22-77
 13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:8:5-80
-13-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:8:22-78
+13-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:8:22-78
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:9:5-66
-14-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:9:22-64
+14-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:9:5-66
+14-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:9:22-64
 15
 16    <application
-16-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:10:5-44:19
+16-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:10:5-44:19
 17        android:allowBackup="true"
-17-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:11:9-35
+17-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:11:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.8.0] C:\Users\ujwal\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 19        android:dataExtractionRules="@xml/data_extraction_rules"
-19-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:12:9-65
+19-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:12:9-65
 20        android:debuggable="true"
 21        android:fullBackupContent="@xml/backup_rules"
-21-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:13:9-54
+21-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:13:9-54
 22        android:icon="@mipmap/ic_launcher"
-22-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:14:9-43
+22-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:14:9-43
 23        android:label="@string/app_name"
-23-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:15:9-41
+23-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:15:9-41
 24        android:networkSecurityConfig="@xml/network_security_config"
-24-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:19:9-69
+24-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:19:9-69
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:16:9-54
+25-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:16:9-54
 26        android:supportsRtl="true"
-26-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:17:9-35
+26-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:17:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.ImageCapture"
-28-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:18:9-50
+28-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:18:9-50
 29        android:usesCleartextTraffic="true" >
-29-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:20:9-44
+29-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:20:9-44
 30        <activity
-30-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:22:9-24:40
+30-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:22:9-24:40
 31            android:name="com.example.imagecapture.UploadImageActivity"
-31-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:23:13-48
+31-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:23:13-48
 32            android:exported="false" />
-32-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:24:13-37
+32-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:24:13-37
 33        <activity
-33-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:25:9-33:20
+33-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:25:9-33:20
 34            android:name="com.example.imagecapture.MainActivity"
-34-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:26:13-41
+34-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:26:13-41
 35            android:exported="true" >
-35-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:27:13-36
+35-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:27:13-36
 36            <intent-filter>
-36-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:28:13-32:29
+36-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:28:13-32:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:29:17-69
-37-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:29:25-66
+37-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:29:17-69
+37-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:29:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:31:17-77
-39-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:31:27-74
+39-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:31:17-77
+39-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:31:27-74
 40            </intent-filter>
 41        </activity>
 42
 43        <provider
-43-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:35:9-43:20
+43-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:35:9-43:20
 44            android:name="androidx.core.content.FileProvider"
-44-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:36:13-62
+44-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:36:13-62
 45            android:authorities="com.example.imagecapture.fileprovider"
-45-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:37:13-72
+45-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:37:13-72
 46            android:exported="false"
-46-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:38:13-37
+46-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:38:13-37
 47            android:grantUriPermissions="true" >
-47-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:39:13-47
+47-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:39:13-47
 48            <meta-data
-48-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:40:13-42:64
+48-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:40:13-42:64
 49                android:name="android.support.FILE_PROVIDER_PATHS"
-49-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:41:17-67
+49-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:41:17-67
 50                android:resource="@xml/file_paths" />
-50-->C:\Personal\University\Sem-1\Mobile_computing\Project1\Clone\MobileComputing\Android\app\src\main\AndroidManifest.xml:42:17-51
+50-->C:\Personal\University\Sem-1\Mobile_computing\Project2\Android\app\src\main\AndroidManifest.xml:42:17-51
 51        </provider>
 52        <provider
 52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ujwal\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

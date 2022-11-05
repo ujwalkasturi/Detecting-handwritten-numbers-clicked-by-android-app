@@ -4,6 +4,25 @@
             "outputFile": "com.example.imagecapture.app-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
+                    "source": "C:\\Personal\\University\\Sem-1\\Mobile_computing\\Project2\\Android\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "835"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1330"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ujwal\\.gradle\\caches\\transforms-3\\0a1e1205a4ad55603e56c0d69f6f4244\\transformed\\appcompat-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -35,25 +54,6 @@
                         "startOffsets": "1335,1410,1521,1610,1711,1818,1925,2024,2127,2215,2339,2441,2543,2659,2761,2875,3003,3119,3241,3377,3497,3631,3751,3863,4078,4195,4319,4449,4571,4709,4843,4959",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "1405,1516,1605,1706,1813,1920,2019,2122,2210,2334,2436,2538,2654,2756,2870,2998,3114,3236,3372,3492,3626,3746,3858,3984,4190,4314,4444,4566,4704,4838,4954,5074"
-                    }
-                },
-                {
-                    "source": "C:\\Personal\\University\\Sem-1\\Mobile_computing\\Project1\\Clone\\MobileComputing\\Android\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "835"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "1330"
                     }
                 }
             ]

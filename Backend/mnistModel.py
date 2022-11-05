@@ -36,9 +36,9 @@ def detect_num(img):
 
     img_proc = 1 - img_proc # inverse since training dataset is white text with black background
 
-    img = np.array([img_proc])
-    plt.imshow(img[0],cmap='gray')
-    plt.show()
+    # img = np.array([img_proc])
+    # plt.imshow(img[0],cmap='gray')
+    # plt.show()
     net_in = np.expand_dims(img_proc, axis=0)
     y_pred = model.predict(net_in)[0]
     print(y_pred)
@@ -50,9 +50,7 @@ model = load_model('mnist2.h5')
 # path = r"C:\\Personal\\University\\Sem-1\\Mobile_computing\\Project2\\Backend\\test_images\\7crop.png"
 # img = cv2.imread(r"test_images\\z5.jpeg")
 
-
-
-detect_num(img)
+# detect_num(img)
 
 
 # img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)

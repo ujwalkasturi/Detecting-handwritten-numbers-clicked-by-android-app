@@ -2616,8 +2616,6 @@ id cache_measures
 id callMeasure
 id cancel_button
 id carryVelocity
-id categories
-id categoryButton
 id center
 id centerCrop
 id centerInside
@@ -2663,6 +2661,7 @@ id decor_content_parent
 id default_activity_button
 id deltaRelative
 id dependency_ordering
+id descriptionText
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -2761,6 +2760,7 @@ id line3
 id linear
 id listMode
 id list_item
+id mainUploadButton
 id masked
 id match_constraint
 id match_parent
@@ -2857,6 +2857,7 @@ id percent
 id pin
 id position
 id postLayout
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -2985,7 +2986,6 @@ id unchecked
 id uniform
 id unlabeled
 id up
-id uploadButton
 id useLogo
 id vertical_only
 id view_offset_helper

@@ -9,13 +9,13 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-id categories
-id categoryButton
+id descriptionText
 id imageView
 id imageViewUpload
+id mainUploadButton
 id nobutton
+id progressBar
 id textView
-id uploadButton
 id yesButton
 layout activity_main
 layout activity_upload_image

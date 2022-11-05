@@ -2615,8 +2615,6 @@ int id cache_measures 0x7f080063
 int id callMeasure 0x7f080064
 int id cancel_button 0x7f080065
 int id carryVelocity 0x7f080066
-int id categories 0x7f080067
-int id categoryButton 0x7f080068
 int id center 0x7f080069
 int id centerCrop 0x7f08006a
 int id centerInside 0x7f08006b
@@ -2662,6 +2660,7 @@ int id decor_content_parent 0x7f080092
 int id default_activity_button 0x7f080093
 int id deltaRelative 0x7f080094
 int id dependency_ordering 0x7f080095
+int id descriptionText 0x7f0801ed
 int id design_bottom_sheet 0x7f080096
 int id design_menu_item_action_area 0x7f080097
 int id design_menu_item_action_area_stub 0x7f080098
@@ -2760,6 +2759,7 @@ int id line3 0x7f0800f4
 int id linear 0x7f0800f5
 int id listMode 0x7f0800f6
 int id list_item 0x7f0800f7
+int id mainUploadButton 0x7f0801ee
 int id masked 0x7f0800f8
 int id match_constraint 0x7f0800f9
 int id match_parent 0x7f0800fa
@@ -2856,6 +2856,7 @@ int id percent 0x7f080154
 int id pin 0x7f080155
 int id position 0x7f080156
 int id postLayout 0x7f080157
+int id progressBar 0x7f0801ef
 int id progress_circular 0x7f080158
 int id progress_horizontal 0x7f080159
 int id radio 0x7f08015a
@@ -2984,7 +2985,6 @@ int id unchecked 0x7f0801d4
 int id uniform 0x7f0801d5
 int id unlabeled 0x7f0801d6
 int id up 0x7f0801d7
-int id uploadButton 0x7f0801d8
 int id useLogo 0x7f0801d9
 int id vertical_only 0x7f0801da
 int id view_offset_helper 0x7f0801db
