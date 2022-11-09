@@ -21,8 +21,6 @@ def detect_num(img):
 
     img_proc = 1 - img_proc # inverse since training dataset is white text with black background
 
-    plt.imshow(img_proc, interpolation='nearest', cmap='gray')
-    plt.show()
 
     net_in = np.expand_dims(img_proc, axis=0)
     y_pred = model.predict(net_in)[0]

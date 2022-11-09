@@ -15,6 +15,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/mnist.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/mnist.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/mnist2.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/mnistModel copy.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Backend/mnistModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/mnistModel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Backend/modelBuild.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/modelBuild.ipynb" afterDir="false" />
     </list>
